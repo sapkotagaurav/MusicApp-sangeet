@@ -1,0 +1,27 @@
+hello
+aba k bhanu khai
+vim is so nice
+haha
+lol
+even if the
+gaura
+int main(){
+
+cout<"hello"<<endl;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
